@@ -1,2 +1,2 @@
 test
-demo-agent1
+demo-agent2
